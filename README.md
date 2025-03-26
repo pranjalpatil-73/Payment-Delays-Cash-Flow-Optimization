@@ -1,44 +1,46 @@
 # Payment-Delays-Cash-Flow-Optimization
-Analyzed invoice data to identify late-paying customers, reducing delays by 20-30%. Improved cash flow, cut borrowing costs by 15%, and increased on-time payments by 25%.
+   Analyzed invoice data to identify late-paying customers, reducing delays by 20-30%. Improved cash flow, cut borrowing costs by 15%, and increased on-time payments by 25%.
 
-Business Problem
+**Business Problem**
 Businesses often face cash flow problems due to customers paying invoices late. Late payments can disrupt operations, delay payroll, and hinder growth. Identifying which customers delay payments the most and understanding the patterns behind these delays can help businesses take proactive measures to improve cash flow.
 
-Key Questions:
+**Key Questions:**
 
-Which customers delay payments the most?
+  Which customers delay payments the most?
 
-Are there patterns in late payments based on industry, customer type, or location?
+  Are there patterns in late payments based on industry, customer type, or location?
 
-How can businesses improve collections and avoid delays?
+  How can businesses improve collections and avoid delays?
 
-Impact of the Problem
-Late payments have significant consequences for businesses, including:
+**Impact of the Problem**
 
-Cash Flow Disruptions: Delayed payments can lead to insufficient funds for operational expenses.
+  Late payments have significant consequences for businesses, including:
 
-Increased Borrowing Costs: Businesses may need to take loans to cover short-term cash shortages, leading to higher interest costs.
+  Cash Flow Disruptions: Delayed payments can lead to insufficient funds for operational expenses.
 
-Strained Relationships: Late payments can strain relationships with suppliers and vendors.
+  Increased Borrowing Costs: Businesses may need to take loans to cover short-term cash shortages, leading to higher interest costs.
 
-Reduced Growth Opportunities: Lack of cash flow can limit investments in growth initiatives.
+  Strained Relationships: Late payments can strain relationships with suppliers and vendors.
 
-Administrative Burden: Chasing late payments increases administrative workload and costs.
+  Reduced Growth Opportunities: Lack of cash flow can limit investments in growth initiatives.
 
-By addressing this problem, businesses can:
+  Administrative Burden: Chasing late payments increases administrative workload and costs.
 
-Improve cash flow stability.
+**By addressing this problem, businesses can:**
 
-Reduce borrowing costs.
+  Improve cash flow stability.
 
-Strengthen relationships with customers and suppliers.
+  Reduce borrowing costs.
 
-Focus on growth and innovation.
+  Strengthen relationships with customers and suppliers.
+
+  Focus on growth and innovation.
 
 Dataset Overview
+
 The dataset used for this analysis contains invoice payment records with the following features:
 
-InvoiceID: Unique identifier for each invoice.
+  InvoiceID: Unique identifier for each invoice.
 
 CustomerID: Unique identifier for each customer.
 
